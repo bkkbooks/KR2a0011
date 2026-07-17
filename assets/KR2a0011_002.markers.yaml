@@ -463,6 +463,7 @@ markers:
       ', id: KR2a0011_krp_002-bkkkrnewl106}
   - {type: line-break, offset: 1749, content: '', id: KR2a0011_WYG_002-6b08}
   - {type: punctuation, offset: 1757, content: (, id: KR2a0011_krp_002-bkkpn1}
+  - {type: voice, offset: 1757, length: 36, name: note, id: n1}
   - {type: punctuation, offset: 1770, content: /, id: KR2a0011_krp_002-bkkpn2}
   - {type: substitution, offset: 1772, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20802}}
   - {type: punctuation, offset: 1783, content: ), id: KR2a0011_krp_002-bkkpn3}
@@ -1014,4 +1015,4 @@ markers:
 
       ', id: KR2a0011_krp_002-bkkkrnewl233}
   back: []
-hash: sha256:bdc516e071fa05b50a089cde6e83e95d8cc4c7ed9d24dc28b5f52e60c40d5564
+hash: sha256:4ad2797c716cfd169f64ab4912d6178fd6613f7d140ea5b0678fd4b3f047d55a
